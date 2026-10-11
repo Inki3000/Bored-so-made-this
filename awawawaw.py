@@ -1,4 +1,9 @@
 print ("Hello there, what is your name?")
 name = input()
 print ("Hello", name)
-// how do i use this flipping app
+print ("Please choose a gender from the ones provided")
+print ("Female, Male and Non-Binary")
+gender = input()
+print ("Almost done")
+print ("Please decide on a catchphrase")
+catchphrase = input()
